@@ -2,22 +2,22 @@
 
 ![eunice's profile](https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eunice+👋;a+developer+wannabe;and+a+frustrated+ui/ux+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eunice+👋;an+aspiring+project+manager;)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## <div align="center"> 🌷 About Me 
-🎯 Focused on **UI/UX Design**  
-📚 Learning/Preparing for **Mobile App Development**  
+🎯 Focused on **Project Management**  
+📚 Learning/Preparing for **Web and Mobile App Development**  
 🎨 Hobbies: Read. Eat. Sleep.  
-☁️ Always learning, always creating
+☁️ Lead the plan, trust the process
 </div>
 
 ---
 
-## <div align="center"> 🛠 Tech & Tools I Use </div>
+## <div align="center"> 🛠 Tech & Tools I Use(d) </div>
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,8 @@
 ## <div align="center"> 🌟 Featured Projects </div>
 - 🗒 **Note Application** – A note application with authentication and authorization, allowing you to create, read, update, and delete your notes. 
 - 📱 **Social Media Platform** – A personalized simple social media platform with authentication and authorization.
+- 🛒 **E-commerce Platform** - An e-commerce platform focused on selling baby and kids clothes.
 
 ---
 
-<div align="center"> <em>⭐ Simple. Intuitive. Beautiful. </em> </div>
+<div align="center"> <em>⭐ Organize. Optimize. Overcome. </em> </div>
