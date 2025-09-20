@@ -10,8 +10,11 @@
 
 ## <div align="center"> 🌷 About Me 
 🎯 Focused on **Project Management**  
+
 📚 Learning/Preparing for **Web and Mobile App Development**  
+
 🎨 Hobbies: Read. Read. Write.
+
 ☁️ Lead the plan, trust the process
 </div>
 
